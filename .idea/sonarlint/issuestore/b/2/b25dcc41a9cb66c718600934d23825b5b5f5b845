@@ -1,0 +1,14 @@
+
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÇŸÑ¦þÿÿÿÿ8ÉºÖ·Ó/
+]	java:S125"<This block of commented-out lines of code should be removed.(ó¦ð·ûÿÿÿÿ8ËºÖ·Ó/
+b
+java:S1128"@Remove this unused import 'com.chh.utilmodule.redis.RedisUtils'.(âê’Šúÿÿÿÿ8ËºÖ·Ó/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(´Ö˜ý8ËºÖ·Ó/
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ8ËºÖ·Ó/
+S
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8ËºÖ·Ó/
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ8ËºÖ·Ó/
